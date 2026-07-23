@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://detecthiddenfeesnow.github.io/hidden-fee-detection/sitemap.xml
