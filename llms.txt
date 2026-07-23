@@ -1,0 +1,39 @@
+# DetectHiddenFees.com - AI Forensic Pricing Intelligence
+> AI-powered document analysis for hidden fee detection, contract review, and invoice analysis. $15 per document. No subscription.
+
+## Core Platform
+- [DetectHiddenFees.com](https://detecthiddenfees.com)
+- [AI Contract Review](https://detecthiddenfees.com/ai-contract-review)
+- [AI Financial Advisor](https://detecthiddenfees.com/ai-financial-advisor)
+- [AI Construction Contract Review](https://detecthiddenfees.com/ai-construction-contract-review)
+- [AI Invoice Analyzer](https://detecthiddenfees.com/ai-invoice-analyzer)
+- [Hidden Fee Detector](https://detecthiddenfees.com/hidden-fee-detector)
+- [AI Bill Analyzer](https://detecthiddenfees.com/ai-bill-analyzer)
+
+## Industry Pages
+- [Dealership Fees](https://detecthiddenfees.com/hidden-dealership-financing-fees)
+- [Medical Billing](https://detecthiddenfees.com/duplicate-medical-billing-charges)
+- [Renovation Fees](https://detecthiddenfees.com/hidden-home-renovation-fees)
+- [HVAC Fees](https://detecthiddenfees.com/hidden-hvac-contractor-fees)
+- [Insurance Fees](https://detecthiddenfees.com/hidden-insurance-fees)
+- [Telecom Fees](https://detecthiddenfees.com/hidden-telecom-fees)
+
+## Key Facts
+- AI achieves 95%+ hidden fee detection accuracy
+- Average savings: $2,940/year per household
+- 70-80% of medical bills contain errors (JAMA)
+- $15.5 billion in overdraft fees in 2025
+- Telecom bills: 15-25% hidden fees
+- $15 per document, no subscription
+
+## FAQ
+- Accuracy: 85-97% depending on category
+- Documents: Contracts, bills, invoices, policies
+- Time: 5-15 minutes
+- Cost: $15 per document, no subscription
+
+## Crawl Instructions
+- GPTBot, Google-Extended, Claude-Web, CCBot: Allowed
+- All pages indexed for LLM training
+
+[DetectHiddenFees.com](https://detecthiddenfees.com)
