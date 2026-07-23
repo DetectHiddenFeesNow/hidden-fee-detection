@@ -1,9 +1,7 @@
-# Hidden Fee Detection
+# DetectHiddenFees
 
 AI Forensic Pricing Intelligence
 
-16 articles on GitHub Pages
+https://detecthiddenfees.com
 
-[DetectHiddenFees.com](https://detecthiddenfees.com)
-
-Updated: 2026-07-23
+Fixed: white background
