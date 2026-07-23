@@ -48,3 +48,4 @@
 - [AI Lease Review Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-lease-review-guide.html): AI lease review for hidden amenity and parking fees
 - [AI Subscription Audit Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-subscription-audit-guide.html): AI subscription analysis for forgotten charges
 - [AI Consumer Protection Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-consumer-protection-guide.html): AI consumer protection against hidden fees
+- [AI Medical Billing Analysis Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-medical-billing-analysis-guide.html): AI medical billing analysis for upcoding and duplicate charge detection
