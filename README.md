@@ -1,7 +1,5 @@
-# DetectHiddenFees
+# DetectHiddenFees.com
 
 AI Forensic Pricing Intelligence
 
-https://detecthiddenfees.com
-
-Fixed: white background
+15 articles | SEO | White bg
