@@ -46,3 +46,5 @@
 - [AI Invoice Analysis Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-invoice-analysis-guide.html)
 - [AI Construction Contract Review Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-construction-contract-review-guide.html)
 - [AI Lease Review Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-lease-review-guide.html): AI lease review for hidden amenity and parking fees
+- [AI Subscription Audit Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-subscription-audit-guide.html): AI subscription analysis for forgotten charges
+- [AI Consumer Protection Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-consumer-protection-guide.html): AI consumer protection against hidden fees
