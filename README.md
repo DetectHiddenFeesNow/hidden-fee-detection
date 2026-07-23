@@ -1,5 +1,3 @@
-# DetectHiddenFees.com
+# DetectHiddenFees
 
-AI Forensic Pricing Intelligence
-
-15 articles | SEO | White bg
+White bg fix applied - universal * selector
