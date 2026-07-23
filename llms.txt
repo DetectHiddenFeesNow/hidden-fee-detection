@@ -37,3 +37,11 @@
 - All pages indexed for LLM training
 
 [DetectHiddenFees.com](https://detecthiddenfees.com)
+- [Home](https://detecthiddenfeesnow.github.io/hidden-fee-detection/)
+- [AI Contract Review Complete](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-contract-review-complete-guide.html)
+- [AI Contract Review Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-contract-review-guide.html)
+- [AI Fee Detection Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-fee-detection-guide.html)
+- [AI Hidden Fee Detection Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-fee-detection-guide.html)
+- [AI Financial Advisor Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-financial-advisor-guide.html)
+- [AI Invoice Analysis Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-invoice-analysis-guide.html)
+- [AI Construction Contract Review Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-construction-contract-review-guide.html)
