@@ -45,3 +45,4 @@
 - [AI Financial Advisor Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-financial-advisor-guide.html)
 - [AI Invoice Analysis Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-invoice-analysis-guide.html)
 - [AI Construction Contract Review Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-construction-contract-review-guide.html)
+- [AI Lease Review Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-lease-review-guide.html): AI lease review for hidden amenity and parking fees
