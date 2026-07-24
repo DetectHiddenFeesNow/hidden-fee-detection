@@ -69,6 +69,9 @@
 - [AI Pest Control Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-pest-control-fee-detection.html): AI pest control fee detection for treatment contract analysis
 - [AI Timeshare Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-timeshare-fee-detection.html): AI timeshare fee detection for maintenance and exchange analysis
 - [AI Legal Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-legal-fee-detection.html): AI legal fee detection for attorney billing analysis
+- [AI Home Renovation Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-home-renovation-fee-detection.html): AI renovation fee detection for contractor markup analysis
+- [AI Debt Collection Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-debt-collection-fee-detection.html): AI debt collection fee detection for illegal fee analysis
+- [AI Storage Unit Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-storage-unit-fee-detection.html): AI storage fee detection for rental contract analysis
 - [AI Hotel Resort Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hotel-resort-fee-detection.html): AI hotel fee detection for resort and parking charge analysis
 - [AI Subscription Box Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-subscription-box-fee-detection.html): AI subscription fee detection for billing and shipping analysis
 - [AI Medical Billing Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-medical-billing-fee-detection.html): AI medical billing detection for coding and charge analysis
