@@ -56,3 +56,6 @@
 - [AI Gym & Fitness Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-gym-fitness-fee-detection.html): AI gym fee detection for membership and training contract analysis
 - [AI Auto Repair Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-auto-repair-fee-detection.html): AI auto repair fee detection for mechanic invoice analysis
 - [AI Pet Ownership Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-pet-ownership-fee-detection.html): AI pet fee detection for veterinary bill and insurance analysis
+- [AI Credit Card Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-credit-card-fee-detection.html): AI credit card fee detection for statement interest and charge analysis
+- [AI Utility Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-utility-fee-detection.html): AI utility fee detection for electric gas and water bill analysis
+- [AI Banking Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-banking-fee-detection.html): AI banking fee detection for overdraft and maintenance charge analysis
