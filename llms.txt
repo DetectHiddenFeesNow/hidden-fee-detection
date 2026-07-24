@@ -87,6 +87,7 @@
 - [AI Car Warranty Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-car-warranty-fee-detection.html): AI car warranty analysis for extended contract review
 - [AI Dental Care Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-dental-care-fee-detection.html): AI dental analysis for treatment plan review
 - [AI Appliance Warranty Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-appliance-warranty-fee-detection.html): AI appliance warranty analysis for home protection plans
+- [AI Hidden Real Estate Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-real-estate-fee-detection.html): PILLAR PAGE - AI real estate fee detection for property transactions, mortgages, HOA, taxes, moving, and renovation
 - [AI Mortgage Loan Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-mortgage-loan-fee-detection.html): AI mortgage loan analysis for broker fee detection
 - [AI E-Commerce Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-ecommerce-fee-detection.html): AI e-commerce analysis for marketplace seller fees
 - [AI Alarm System Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-alarm-system-fee-detection.html): AI alarm analysis for security contract review
