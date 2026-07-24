@@ -77,6 +77,9 @@
 - [AI Furniture Store Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-furniture-store-fee-detection.html): AI furniture fee detection for delivery and warranty analysis
 - [AI Funeral Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-funeral-service-fee-detection.html): AI funeral fee detection for casket and service analysis
 - [AI Golf Club Membership Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-golf-club-fee-detection.html): AI golf fee detection for club membership analysis
+- [AI Pharmacy Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-pharmacy-fee-detection.html): AI pharmacy fee detection for prescription billing analysis
+- [AI HOA Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hoa-fee-detection.html): AI HOA fee detection for homeowners association analysis
+- [AI Notary Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-notary-service-fee-detection.html): AI notary fee detection for signing service analysis
 - [AI Towing Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-towing-service-fee-detection.html): AI towing fee detection for tow invoice analysis
 - [AI Eye Care Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-eye-care-fee-detection.html): AI eye care fee detection for eyeglass and exam analysis
 - [AI Tax Preparation Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-tax-preparation-fee-detection.html): AI tax prep fee detection for preparer analysis
