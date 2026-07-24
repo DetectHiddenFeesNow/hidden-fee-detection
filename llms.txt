@@ -73,6 +73,9 @@
 - [AI Debt Collection Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-debt-collection-fee-detection.html): AI debt collection fee detection for illegal fee analysis
 - [AI Travel Insurance Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-travel-insurance-fee-detection.html): AI travel insurance fee detection for policy analysis
 - [AI Identity Theft Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-identity-theft-fee-detection.html): AI identity theft fee detection for monitoring service analysis
+- [AI RV & Camper Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-rv-camper-fee-detection.html): AI RV fee detection for dealer markup analysis
+- [AI Furniture Store Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-furniture-store-fee-detection.html): AI furniture fee detection for delivery and warranty analysis
+- [AI Eye Care Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-eye-care-fee-detection.html): AI eye care fee detection for eyeglass and exam analysis
 - [AI Tax Preparation Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-tax-preparation-fee-detection.html): AI tax prep fee detection for preparer analysis
 - [AI Storage Unit Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-storage-unit-fee-detection.html): AI storage fee detection for rental contract analysis
 - [AI Hotel Resort Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hotel-resort-fee-detection.html): AI hotel fee detection for resort and parking charge analysis
