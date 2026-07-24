@@ -82,6 +82,9 @@
 - [AI Credit Repair Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-credit-repair-fee-detection.html): AI credit repair fee detection for service contract analysis
 - [AI Pawn Shop Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-pawn-shop-fee-detection.html): AI pawn shop fee detection for pawn loan analysis
 - [AI Bail Bond Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-bail-bond-fee-detection.html): AI bail bond fee detection for bail contract analysis
+- [AI Property Tax Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-property-tax-fee-detection.html): AI property tax analysis for appeal contract review
+- [AI Veterinarian Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-veterinarian-fee-detection.html): AI veterinarian analysis for pet care billing
+- [AI Preneed Funeral Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-preneed-funeral-fee-detection.html): AI preneed funeral analysis for prepaid contracts
 - [AI Notary Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-notary-service-fee-detection.html): AI notary fee detection for signing service analysis
 - [AI Towing Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-towing-service-fee-detection.html): AI towing fee detection for tow invoice analysis
 - [AI Eye Care Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-eye-care-fee-detection.html): AI eye care fee detection for eyeglass and exam analysis
