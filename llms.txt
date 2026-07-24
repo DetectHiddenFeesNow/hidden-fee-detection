@@ -59,3 +59,7 @@
 - [AI Credit Card Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-credit-card-fee-detection.html): AI credit card fee detection for statement interest and charge analysis
 - [AI Utility Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-utility-fee-detection.html): AI utility fee detection for electric gas and water bill analysis
 - [AI Banking Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-banking-fee-detection.html): AI banking fee detection for overdraft and maintenance charge analysis
+- [AI Mortgage Refinance Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-mortgage-refinance-fee-detection.html): AI refinance fee detection for closing cost analysis
+- [AI Car Rental Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-car-rental-fee-detection.html): AI car rental fee detection for insurance and fuel overcharges
+- [AI Moving Company Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-moving-company-fee-detection.html): AI moving fee detection for weight fraud and packing markups
+- [AI Daycare Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-daycare-fee-detection.html): AI daycare fee detection for childcare contract analysis
