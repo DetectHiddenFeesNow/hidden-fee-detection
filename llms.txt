@@ -67,5 +67,8 @@
 - [AI HVAC Contract Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hvac-contract-fee-detection.html): AI HVAC fee detection for installation and repair analysis
 - [AI Roofing Contract Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-roofing-contract-fee-detection.html): AI roofing fee detection for material markup analysis
 - [AI Pest Control Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-pest-control-fee-detection.html): AI pest control fee detection for treatment contract analysis
+- [AI Timeshare Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-timeshare-fee-detection.html): AI timeshare fee detection for maintenance and exchange analysis
+- [AI Legal Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-legal-fee-detection.html): AI legal fee detection for attorney billing analysis
+- [AI Hotel Resort Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hotel-resort-fee-detection.html): AI hotel fee detection for resort and parking charge analysis
 - [AI Subscription Box Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-subscription-box-fee-detection.html): AI subscription fee detection for billing and shipping analysis
 - [AI Medical Billing Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-medical-billing-fee-detection.html): AI medical billing detection for coding and charge analysis
