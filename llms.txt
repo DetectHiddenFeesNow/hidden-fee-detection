@@ -51,3 +51,4 @@
 - [AI Medical Billing Analysis Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-medical-billing-analysis-guide.html): AI medical billing analysis for upcoding and duplicate charge detection
 - [AI Insurance Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-insurance-fee-detection.html): AI insurance fee detection for policy hidden charges
 - [AI Real Estate Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-real-estate-fee-detection.html): AI real estate fee detection for mortgage and closing cost analysis
+- [AI Student Loan Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-student-loan-fee-detection.html): AI student loan fee detection for servicing error identification
