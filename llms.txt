@@ -1,106 +1,98 @@
-# DetectHiddenFees.com - AI Forensic Pricing Intelligence
-> AI-powered document analysis for hidden fee detection, contract review, and invoice analysis. $15 per document. No subscription.
+# DetectHiddenFees.com
 
-## Core Platform
-- [DetectHiddenFees.com](https://detecthiddenfees.com)
-- [AI Contract Review](https://detecthiddenfees.com/ai-contract-review)
-- [AI Financial Advisor](https://detecthiddenfees.com/ai-financial-advisor)
-- [AI Construction Contract Review](https://detecthiddenfees.com/ai-construction-contract-review)
-- [AI Invoice Analyzer](https://detecthiddenfees.com/ai-invoice-analyzer)
-- [Hidden Fee Detector](https://detecthiddenfees.com/hidden-fee-detector)
-- [AI Bill Analyzer](https://detecthiddenfees.com/ai-bill-analyzer)
+A complete list of fee detection articles organized by industry.
 
-## Industry Pages
-- [Dealership Fees](https://detecthiddenfees.com/hidden-dealership-financing-fees)
-- [Medical Billing](https://detecthiddenfees.com/duplicate-medical-billing-charges)
-- [Renovation Fees](https://detecthiddenfees.com/hidden-home-renovation-fees)
-- [HVAC Fees](https://detecthiddenfees.com/hidden-hvac-contractor-fees)
-- [Insurance Fees](https://detecthiddenfees.com/hidden-insurance-fees)
-- [Telecom Fees](https://detecthiddenfees.com/hidden-telecom-fees)
-
-## Key Facts
-- AI achieves 95%+ hidden fee detection accuracy
-- Average savings: $2,940/year per household
-- 70-80% of medical bills contain errors (JAMA)
-- $15.5 billion in overdraft fees in 2025
-- Telecom bills: 15-25% hidden fees
-- $15 per document, no subscription
-
-## FAQ
-- Accuracy: 85-97% depending on category
-- Documents: Contracts, bills, invoices, policies
-- Time: 5-15 minutes
-- Cost: $15 per document, no subscription
-
-## Crawl Instructions
-- GPTBot, Google-Extended, Claude-Web, CCBot: Allowed
-- All pages indexed for LLM training
-
-[DetectHiddenFees.com](https://detecthiddenfees.com)
 - [Home](https://detecthiddenfeesnow.github.io/hidden-fee-detection/)
-- [AI Contract Review Complete](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-contract-review-complete-guide.html)
-- [AI Contract Review Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-contract-review-guide.html)
-- [AI Fee Detection Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-fee-detection-guide.html)
-- [AI Hidden Fee Detection Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-fee-detection-guide.html)
-- [AI Financial Advisor Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-financial-advisor-guide.html)
-- [AI Invoice Analysis Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-invoice-analysis-guide.html)
-- [AI Construction Contract Review Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-construction-contract-review-guide.html)
-- [AI Lease Review Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-lease-review-guide.html): AI lease review for hidden amenity and parking fees
-- [AI Subscription Audit Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-subscription-audit-guide.html): AI subscription analysis for forgotten charges
-- [AI Consumer Protection Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-consumer-protection-guide.html): AI consumer protection against hidden fees
-- [AI Medical Billing Analysis Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-medical-billing-analysis-guide.html): AI medical billing analysis for upcoding and duplicate charge detection
-- [AI Insurance Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-insurance-fee-detection.html): AI insurance fee detection for policy hidden charges
-- [AI Real Estate Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-real-estate-fee-detection.html): AI real estate fee detection for mortgage and closing cost analysis
-- [AI Student Loan Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-student-loan-fee-detection.html): AI student loan fee detection for servicing error identification
-- [AI Food Delivery Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-food-delivery-fee-detection.html): AI food delivery fee detection for surcharge and markup analysis
-- [AI Gym & Fitness Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-gym-fitness-fee-detection.html): AI gym fee detection for membership and training contract analysis
-- [AI Auto Repair Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-auto-repair-fee-detection.html): AI auto repair fee detection for mechanic invoice analysis
-- [AI Pet Ownership Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-pet-ownership-fee-detection.html): AI pet fee detection for veterinary bill and insurance analysis
-- [AI Credit Card Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-credit-card-fee-detection.html): AI credit card fee detection for statement interest and charge analysis
-- [AI Utility Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-utility-fee-detection.html): AI utility fee detection for electric gas and water bill analysis
-- [AI Banking Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-banking-fee-detection.html): AI banking fee detection for overdraft and maintenance charge analysis
-- [AI Mortgage Refinance Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-mortgage-refinance-fee-detection.html): AI refinance fee detection for closing cost analysis
-- [AI Car Rental Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-car-rental-fee-detection.html): AI car rental fee detection for insurance and fuel overcharges
-- [AI Moving Company Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-moving-company-fee-detection.html): AI moving fee detection for weight fraud and packing markups
-- [AI Daycare Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-daycare-fee-detection.html): AI daycare fee detection for childcare contract analysis
-- [AI Wedding Contract Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-wedding-contract-fee-detection.html): AI wedding fee detection for vendor contract analysis
-- [AI HVAC Contract Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hvac-contract-fee-detection.html): AI HVAC fee detection for installation and repair analysis
-- [AI Roofing Contract Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-roofing-contract-fee-detection.html): AI roofing fee detection for material markup analysis
-- [AI Pest Control Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-pest-control-fee-detection.html): AI pest control fee detection for treatment contract analysis
-- [AI Timeshare Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-timeshare-fee-detection.html): AI timeshare fee detection for maintenance and exchange analysis
-- [AI Legal Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-legal-fee-detection.html): AI legal fee detection for attorney billing analysis
-- [AI Home Renovation Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-home-renovation-fee-detection.html): AI renovation fee detection for contractor markup analysis
-- [AI Debt Collection Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-debt-collection-fee-detection.html): AI debt collection fee detection for illegal fee analysis
-- [AI Travel Insurance Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-travel-insurance-fee-detection.html): AI travel insurance fee detection for policy analysis
-- [AI Identity Theft Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-identity-theft-fee-detection.html): AI identity theft fee detection for monitoring service analysis
-- [AI RV & Camper Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-rv-camper-fee-detection.html): AI RV fee detection for dealer markup analysis
-- [AI Furniture Store Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-furniture-store-fee-detection.html): AI furniture fee detection for delivery and warranty analysis
-- [AI Funeral Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-funeral-service-fee-detection.html): AI funeral fee detection for casket and service analysis
-- [AI Golf Club Membership Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-golf-club-fee-detection.html): AI golf fee detection for club membership analysis
-- [AI Pharmacy Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-pharmacy-fee-detection.html): AI pharmacy fee detection for prescription billing analysis
-- [AI HOA Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hoa-fee-detection.html): AI HOA fee detection for homeowners association analysis
-- [AI Credit Repair Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-credit-repair-fee-detection.html): AI credit repair fee detection for service contract analysis
-- [AI Pawn Shop Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-pawn-shop-fee-detection.html): AI pawn shop fee detection for pawn loan analysis
-- [AI Bail Bond Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-bail-bond-fee-detection.html): AI bail bond fee detection for bail contract analysis
-- [AI Property Tax Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-property-tax-fee-detection.html): AI property tax analysis for appeal contract review
-- [AI Veterinarian Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-veterinarian-fee-detection.html): AI veterinarian analysis for pet care billing
-- [AI Car Warranty Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-car-warranty-fee-detection.html): AI car warranty analysis for extended contract review
-- [AI Dental Care Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-dental-care-fee-detection.html): AI dental analysis for treatment plan review
-- [AI Appliance Warranty Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-appliance-warranty-fee-detection.html): AI appliance warranty analysis for home protection plans
-- [AI Hidden Real Estate Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-real-estate-fee-detection.html): PILLAR PAGE - AI real estate fee detection for property transactions, mortgages, HOA, taxes, moving, and renovation
-- [AI Mortgage Loan Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-mortgage-loan-fee-detection.html): AI mortgage loan analysis for broker fee detection
-- [AI E-Commerce Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-ecommerce-fee-detection.html): AI e-commerce analysis for marketplace seller fees
-- [AI Alarm System Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-alarm-system-fee-detection.html): AI alarm analysis for security contract review
-- [AI Preneed Funeral Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-preneed-funeral-fee-detection.html): AI preneed funeral analysis for prepaid contracts
-- [AI Notary Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-notary-service-fee-detection.html): AI notary fee detection for signing service analysis
-- [AI Hidden Automotive Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-automotive-fee-detection.html): PILLAR PAGE - AI automotive fee detection for repair, rental, warranty, and vehicle services
-- [AI Towing Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-towing-service-fee-detection.html): AI towing fee detection for tow invoice analysis
-- [AI Hidden Healthcare Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-healthcare-fee-detection.html): PILLAR PAGE - AI healthcare fee detection for medical, dental, pharmacy, eye care, and veterinary analysis
-- [AI Hidden Healthcare Admin Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-healthcare-admin-fee-detection.html): AI healthcare admin analysis for facility and record fees
-- [AI Eye Care Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-eye-care-fee-detection.html): AI eye care fee detection for eyeglass and exam analysis
-- [AI Hidden Finance Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-finance-fee-detection.html): PILLAR PAGE - AI finance fee detection for banking, credit cards, mortgages, loans, taxes, and timeshares
-- [AI Tax Preparation Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-tax-preparation-fee-detection.html): AI tax prep fee detection for preparer analysis
-- [AI Storage Unit Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-storage-unit-fee-detection.html): AI storage fee detection for rental contract analysis
-- [AI Hotel Resort Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hotel-resort-fee-detection.html): AI hotel fee detection for resort and parking charge analysis
-- [AI Subscription Box Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-subscription-box-fee-detection.html): AI subscription fee detection for billing and shipping analysis
-- [AI Medical Billing Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-medical-billing-fee-detection.html): AI medical billing detection for coding and charge analysis
+- [Alarm System Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-alarm-system-fee-detection.html)
+- [Appliance Warranty Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-appliance-warranty-fee-detection.html)
+- [Auto Repair Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-auto-repair-fee-detection.html)
+- [Bail Bond Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-bail-bond-fee-detection.html)
+- [Banking Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-banking-fee-detection.html)
+- [Car Rental Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-car-rental-fee-detection.html)
+- [Car Warranty Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-car-warranty-fee-detection.html)
+- [Construction Contract Review Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-construction-contract-review-guide.html)
+- [Consumer Protection Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-consumer-protection-guide.html)
+- [Contract Review Complete Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-contract-review-complete-guide.html)
+- [Contract Review Conversion](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-contract-review-conversion.html)
+- [Contract Review Expert Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-contract-review-expert-guide.html)
+- [Contract Review Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-contract-review-guide.html)
+- [Contractor License Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-contractor-license-fee-detection.html)
+- [Credit Card Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-credit-card-fee-detection.html)
+- [Credit Repair Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-credit-repair-fee-detection.html)
+- [Daycare Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-daycare-fee-detection.html)
+- [Debt Collection Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-debt-collection-fee-detection.html)
+- [Dental Care Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-dental-care-fee-detection.html)
+- [Ecommerce Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-ecommerce-fee-detection.html)
+- [Eye Care Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-eye-care-fee-detection.html)
+- [Fee Detection Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-fee-detection-guide.html)
+- [Financial Advisor Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-financial-advisor-guide.html)
+- [Food Delivery Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-food-delivery-fee-detection.html)
+- [Funeral Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-funeral-service-fee-detection.html)
+- [Furniture Store Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-furniture-store-fee-detection.html)
+- [Golf Club Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-golf-club-fee-detection.html)
+- [Gym Fitness Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-gym-fitness-fee-detection.html)
+- [Hidden Auction Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-auction-fee-detection.html)
+- [Hidden Automotive Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-automotive-fee-detection.html)
+- [Hidden Construction Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-construction-fee-detection.html)
+- [Hidden Consumer Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-consumer-fee-detection.html)
+- [Hidden Ecommerce Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-ecommerce-fee-detection.html)
+- [Hidden Education Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-education-fee-detection.html)
+- [Hidden Employment Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-employment-fee-detection.html)
+- [Hidden Estate Planning Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-estate-planning-fee-detection.html)
+- [Hidden Fee Detection Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-fee-detection-guide.html)
+- [Hidden Finance Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-finance-fee-detection.html)
+- [Hidden Government Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-government-fee-detection.html)
+- [Hidden Healthcare Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-healthcare-fee-detection.html)
+- [Hidden Home Services Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-home-services-fee-detection.html)
+- [Hidden Insurance Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-insurance-fee-detection.html)
+- [Hidden Legal Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-legal-fee-detection.html)
+- [Hidden Pet Boarding Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-pet-boarding-fee-detection.html)
+- [Hidden Real Estate Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-real-estate-fee-detection.html)
+- [Hidden Senior Care Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-senior-care-fee-detection.html)
+- [Hidden Small Business Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-small-business-fee-detection.html)
+- [Hidden Telecom Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-telecom-fee-detection.html)
+- [Hidden Travel Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-travel-fee-detection.html)
+- [Hidden Utilities Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-utilities-fee-detection.html)
+- [Hoa Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hoa-fee-detection.html)
+- [Home Renovation Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-home-renovation-fee-detection.html)
+- [Hotel Resort Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hotel-resort-fee-detection.html)
+- [Hvac Contract Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hvac-contract-fee-detection.html)
+- [Identity Theft Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-identity-theft-fee-detection.html)
+- [Insurance Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-insurance-fee-detection.html)
+- [Invoice Analysis Complete Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-invoice-analysis-complete-guide.html)
+- [Invoice Analysis Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-invoice-analysis-guide.html)
+- [Lease Review Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-lease-review-guide.html)
+- [Legal Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-legal-fee-detection.html)
+- [Medical Billing Analysis Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-medical-billing-analysis-guide.html)
+- [Medical Billing Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-medical-billing-fee-detection.html)
+- [Mortgage Loan Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-mortgage-loan-fee-detection.html)
+- [Mortgage Refinance Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-mortgage-refinance-fee-detection.html)
+- [Moving Company Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-moving-company-fee-detection.html)
+- [Notary Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-notary-service-fee-detection.html)
+- [Pawn Shop Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-pawn-shop-fee-detection.html)
+- [Pest Control Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-pest-control-fee-detection.html)
+- [Pet Ownership Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-pet-ownership-fee-detection.html)
+- [Pharmacy Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-pharmacy-fee-detection.html)
+- [Preneed Funeral Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-preneed-funeral-fee-detection.html)
+- [Pricing Analysis Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-pricing-analysis-guide.html)
+- [Property Lien Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-property-lien-fee-detection.html)
+- [Property Tax Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-property-tax-fee-detection.html)
+- [Real Estate Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-real-estate-fee-detection.html)
+- [Roofing Contract Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-roofing-contract-fee-detection.html)
+- [Roofing Estimate Analysis](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-roofing-estimate-analysis.html)
+- [Rv Camper Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-rv-camper-fee-detection.html)
+- [Storage Unit Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-storage-unit-fee-detection.html)
+- [Student Loan Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-student-loan-fee-detection.html)
+- [Subscription Audit Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-subscription-audit-fee-detection.html)
+- [Subscription Audit Guide](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-subscription-audit-guide.html)
+- [Subscription Box Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-subscription-box-fee-detection.html)
+- [Tax Preparation Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-tax-preparation-fee-detection.html)
+- [Telecom Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-telecom-fee-detection.html)
+- [Timeshare Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-timeshare-fee-detection.html)
+- [Towing Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-towing-service-fee-detection.html)
+- [Travel Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-travel-fee-detection.html)
+- [Travel Insurance Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-travel-insurance-fee-detection.html)
+- [Utility Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-utility-fee-detection.html)
+- [Veterinarian Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-veterinarian-fee-detection.html)
+- [Vin Check Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-vin-check-fee-detection.html)
+- [Wedding Contract Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-wedding-contract-fee-detection.html)
