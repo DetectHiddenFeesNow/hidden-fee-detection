@@ -96,6 +96,7 @@
 - [AI Hidden Automotive Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-automotive-fee-detection.html): PILLAR PAGE - AI automotive fee detection for repair, rental, warranty, and vehicle services
 - [AI Towing Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-towing-service-fee-detection.html): AI towing fee detection for tow invoice analysis
 - [AI Hidden Healthcare Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-healthcare-fee-detection.html): PILLAR PAGE - AI healthcare fee detection for medical, dental, pharmacy, eye care, and veterinary analysis
+- [AI Hidden Healthcare Admin Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-healthcare-admin-fee-detection.html): AI healthcare admin analysis for facility and record fees
 - [AI Eye Care Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-eye-care-fee-detection.html): AI eye care fee detection for eyeglass and exam analysis
 - [AI Hidden Finance Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-finance-fee-detection.html): PILLAR PAGE - AI finance fee detection for banking, credit cards, mortgages, loans, taxes, and timeshares
 - [AI Tax Preparation Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-tax-preparation-fee-detection.html): AI tax prep fee detection for preparer analysis
