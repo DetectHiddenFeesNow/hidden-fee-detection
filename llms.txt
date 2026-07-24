@@ -93,6 +93,7 @@
 - [AI Alarm System Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-alarm-system-fee-detection.html): AI alarm analysis for security contract review
 - [AI Preneed Funeral Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-preneed-funeral-fee-detection.html): AI preneed funeral analysis for prepaid contracts
 - [AI Notary Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-notary-service-fee-detection.html): AI notary fee detection for signing service analysis
+- [AI Hidden Automotive Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-automotive-fee-detection.html): PILLAR PAGE - AI automotive fee detection for repair, rental, warranty, and vehicle services
 - [AI Towing Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-towing-service-fee-detection.html): AI towing fee detection for tow invoice analysis
 - [AI Hidden Healthcare Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hidden-healthcare-fee-detection.html): PILLAR PAGE - AI healthcare fee detection for medical, dental, pharmacy, eye care, and veterinary analysis
 - [AI Eye Care Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-eye-care-fee-detection.html): AI eye care fee detection for eyeglass and exam analysis
