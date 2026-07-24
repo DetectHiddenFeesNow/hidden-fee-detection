@@ -86,6 +86,9 @@
 - [AI Veterinarian Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-veterinarian-fee-detection.html): AI veterinarian analysis for pet care billing
 - [AI Car Warranty Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-car-warranty-fee-detection.html): AI car warranty analysis for extended contract review
 - [AI Dental Care Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-dental-care-fee-detection.html): AI dental analysis for treatment plan review
+- [AI Appliance Warranty Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-appliance-warranty-fee-detection.html): AI appliance warranty analysis for home protection plans
+- [AI Mortgage Loan Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-mortgage-loan-fee-detection.html): AI mortgage loan analysis for broker fee detection
+- [AI E-Commerce Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-ecommerce-fee-detection.html): AI e-commerce analysis for marketplace seller fees
 - [AI Alarm System Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-alarm-system-fee-detection.html): AI alarm analysis for security contract review
 - [AI Preneed Funeral Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-preneed-funeral-fee-detection.html): AI preneed funeral analysis for prepaid contracts
 - [AI Notary Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-notary-service-fee-detection.html): AI notary fee detection for signing service analysis
