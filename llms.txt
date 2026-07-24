@@ -54,3 +54,5 @@
 - [AI Student Loan Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-student-loan-fee-detection.html): AI student loan fee detection for servicing error identification
 - [AI Food Delivery Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-food-delivery-fee-detection.html): AI food delivery fee detection for surcharge and markup analysis
 - [AI Gym & Fitness Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-gym-fitness-fee-detection.html): AI gym fee detection for membership and training contract analysis
+- [AI Auto Repair Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-auto-repair-fee-detection.html): AI auto repair fee detection for mechanic invoice analysis
+- [AI Pet Ownership Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-pet-ownership-fee-detection.html): AI pet fee detection for veterinary bill and insurance analysis
