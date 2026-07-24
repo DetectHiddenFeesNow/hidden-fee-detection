@@ -63,3 +63,6 @@
 - [AI Car Rental Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-car-rental-fee-detection.html): AI car rental fee detection for insurance and fuel overcharges
 - [AI Moving Company Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-moving-company-fee-detection.html): AI moving fee detection for weight fraud and packing markups
 - [AI Daycare Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-daycare-fee-detection.html): AI daycare fee detection for childcare contract analysis
+- [AI Wedding Contract Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-wedding-contract-fee-detection.html): AI wedding fee detection for vendor contract analysis
+- [AI HVAC Contract Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-hvac-contract-fee-detection.html): AI HVAC fee detection for installation and repair analysis
+- [AI Medical Billing Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-medical-billing-fee-detection.html): AI medical billing detection for coding and charge analysis
