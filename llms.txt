@@ -84,6 +84,9 @@
 - [AI Bail Bond Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-bail-bond-fee-detection.html): AI bail bond fee detection for bail contract analysis
 - [AI Property Tax Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-property-tax-fee-detection.html): AI property tax analysis for appeal contract review
 - [AI Veterinarian Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-veterinarian-fee-detection.html): AI veterinarian analysis for pet care billing
+- [AI Car Warranty Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-car-warranty-fee-detection.html): AI car warranty analysis for extended contract review
+- [AI Dental Care Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-dental-care-fee-detection.html): AI dental analysis for treatment plan review
+- [AI Alarm System Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-alarm-system-fee-detection.html): AI alarm analysis for security contract review
 - [AI Preneed Funeral Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-preneed-funeral-fee-detection.html): AI preneed funeral analysis for prepaid contracts
 - [AI Notary Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-notary-service-fee-detection.html): AI notary fee detection for signing service analysis
 - [AI Towing Service Fee Detection](https://detecthiddenfeesnow.github.io/hidden-fee-detection/ai-towing-service-fee-detection.html): AI towing fee detection for tow invoice analysis
